@@ -34,8 +34,9 @@ Desenvolvimento de uma e-commerce de itens espaciais  abrangendo linhas de produ
 - Filtro - dando a opção de procura de produto por valor mínimo/máximo e também por nome; 
 
 
-</br>
-</br>
+ ## 💻 Tela: 
+<img src="https://user-images.githubusercontent.com/31759644/206867098-0b7bffa3-e59a-43c5-a4ab-a1643f860ac2.png"  width="650" height="350" /> 
+
 
 ## 🛠 Ferramentas:
 
@@ -49,7 +50,7 @@ Desenvolvimento de uma e-commerce de itens espaciais  abrangendo linhas de produ
 
 
 
-## 💻Versão:
+## Versão:
 - desktop (tela de 1280px de largura).
     
 
