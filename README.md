@@ -1,4 +1,4 @@
-Sejam bem vindos ao Labe-commerce, esse repositório contém um esqueleto de app React e um .gitignore.
+
 
 
 <h1 align = "center"> 👩‍🚀LabECommerce 👨‍🚀 </h1>
